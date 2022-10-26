@@ -1,0 +1,29 @@
+h1{margin-top: 50px;
+	position: absolute;
+	width: 38%;
+	top: 35%;
+	bottom: 47%;
+	left: 31%;
+	text-align: center;}
+p{position: absolute;
+	width: 38%;
+	top: 50%;
+	bottom: 33%;
+	left: 31%;
+	text-align: center;}
+
+.headblock{
+	background-color: #00FFFF;
+	background-origin: content-box;
+	border-style: solid;
+	border-color: #B22222;
+	border-width: 6px;
+}
+
+.welcome{
+	background-color: #87CEFA;
+	background-origin: content-box;
+	border-style: solid;
+	border-color: #B22222;
+	border-width: 6px;	
+}
